@@ -1,1 +1,1 @@
-Latest Version = JavaFX Proj
+Latest Version = JavaFX-Proj
